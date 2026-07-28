@@ -1,0 +1,25 @@
+#include<iostream>
+#include<string>
+using namespace std;
+int main(){
+    string s="((()))";
+    int n=sizeof(s);
+    string result="";
+    int count=0;
+    for(int i=0;i<n;i++){
+        if(s[i]=='('){
+            if(count>0){
+                result+=s[i];
+            }
+            count++;
+
+        }
+        else{
+            count--;
+            if(count>0){
+                result+=s[i];
+            }
+        }
+    }
+    cout<<result;
+}

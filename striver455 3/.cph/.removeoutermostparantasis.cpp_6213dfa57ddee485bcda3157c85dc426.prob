@@ -1,0 +1,1 @@
+{"name":"Local: removeoutermostparantasis","url":"/Users/rajatbhardwaj/Desktop/striver455/removeoutermostparantasis.cpp","tests":[{"id":1755709163461,"input":"","output":"(())"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rajatbhardwaj/Desktop/striver455/removeoutermostparantasis.cpp","group":"local","local":true}
