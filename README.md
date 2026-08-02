@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
