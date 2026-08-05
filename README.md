@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
