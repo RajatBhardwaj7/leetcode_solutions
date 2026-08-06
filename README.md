@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -26,6 +27,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Math
@@ -53,6 +56,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +69,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
