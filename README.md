@@ -10,6 +10,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
