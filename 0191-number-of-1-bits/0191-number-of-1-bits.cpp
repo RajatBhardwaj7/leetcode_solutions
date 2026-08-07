@@ -1,23 +1,13 @@
 class Solution {
 public:
-    int hammingWeight(int n) {
+    int hammingWeight(uint32_t n) {
         int count = 0;
-        string res = "";
-        while (n >0) {
-            if (n % 2 == 1) {
-                res += '1';
 
-            } else {
-                res += '0';
-            }
-           n= n / 2;
+        while (n!=0) {
+            count += (n & 1);
+            n >>= 1;//right shift 
         }
-        int k = res.length();
-        for (int i = 0; i < k; i++) {
-            if (res[i] == '1') {
-                count++;
-            }
-        }
+
         return count;
     }
 };
