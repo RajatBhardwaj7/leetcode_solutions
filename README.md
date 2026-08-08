@@ -47,6 +47,7 @@
 | [0136-single-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0338-counting-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
