@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -64,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0326-power-of-three) |
