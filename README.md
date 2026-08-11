@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0191-number-of-1-bits) |
@@ -95,4 +97,8 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
