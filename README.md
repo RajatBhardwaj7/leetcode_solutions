@@ -79,6 +79,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -102,9 +103,15 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
