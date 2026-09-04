@@ -6,6 +6,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
