@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
@@ -44,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/RajatBhardwaj7/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
